@@ -1,0 +1,10 @@
+*{
+    margin: 0 auto;
+    color: white;
+    font-style: italic;
+}
+body{
+    background-image: url(images/backgroun.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
